@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.github/assets/LooksLabFullBlack.png" alt="LooksLab Logo" width="220">
+<img src="./.github/assets/LooksLabIconBlack.png" alt="LooksLab Logo" width="220">
 
 # LooksLab
 
